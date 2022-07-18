@@ -1,0 +1,3 @@
+mnist web : http://www.ccom.ucsd.edu/~cdeotte/programs/MNIST.html
+
+mnist colab : mnist นะครับ https://colab.research.google.com/drive/1bjbhwmzpeNY88zkcWbiAQ4WGPRlRxgxz?usp=sharing 
